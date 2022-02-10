@@ -21,11 +21,11 @@ function welcomeMsg() {
     let array = 0;
 
     const Kendev = `<a href="https://zaky-pedia.asia/home/" target="_blank">Kendev</a>`;
-    const KendevIG = `<a href="https://www.instagram.com/zkyyrxxi/" target="_blank">Kendev</a>`;
+    const zkyyrxxiIG = `<a href="https://www.instagram.com/zkyyrxxi/" target="_blank">zkyyrxxi</a>`;
     const KendevWA = `<a href="https://api.whatsapp.com" target="_blank">Kendev</a>`;
 
     const msg1 = `<p class="animation mb-0 text-truncate">Patuhi Protocol Kesehatan ${Kendev} ya</p>`;
-    const msg2 = `<p class="animation mb-0 text-truncate">IG: ${KendevIG} / WA: ${KendevWA}</p>`;
+    const msg2 = `<p class="animation mb-0 text-truncate">IG: ${zkyyrxxiIG} / WA: ${KendevWA}</p>`;
     const msg3 = `<p class="animation mb-0 text-truncate">Copyright ❤️ Kendev</p>`;
     const msg4 = `<p class="animation mb-0 text-truncate">Tetap jaga kesehatan..`;
     const msg5 = `<p class="animation mb-0 text-truncate">Hehey not bad...</p>`;
